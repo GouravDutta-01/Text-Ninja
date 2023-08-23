@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Ninja/static/css/main.8dd0c6e2.css",
+    "main.js": "/Text-Ninja/static/js/main.4c203708.js",
+    "static/js/787.5dc59a78.chunk.js": "/Text-Ninja/static/js/787.5dc59a78.chunk.js",
+    "index.html": "/Text-Ninja/index.html",
+    "main.8dd0c6e2.css.map": "/Text-Ninja/static/css/main.8dd0c6e2.css.map",
+    "main.4c203708.js.map": "/Text-Ninja/static/js/main.4c203708.js.map",
+    "787.5dc59a78.chunk.js.map": "/Text-Ninja/static/js/787.5dc59a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd0c6e2.css",
+    "static/js/main.4c203708.js"
+  ]
+}
